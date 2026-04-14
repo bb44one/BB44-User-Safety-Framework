@@ -1,4 +1,4 @@
-# BB44-User-Safety-Framework
+# BB44 User Safety Framework
 
 Welcome to the official repository for the BB44 Digital User Protection Layer. This framework outlines the architectural logic and security protocols utilized within our digital entertainment and interactive sports analytics ecosystem in Bangladesh.
 
